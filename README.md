@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently an IT student in the field of web developement. I consider myself to be at an intermediate level of knowledge and expertise in this field, I envision myself as an excellent web developer. I am actively participating and studying to further improve my skills and advance my career in this field. I am passionate and  constanly strive to learn more. 
+I am currently an IT student in the field of web development. I consider myself to be at an intermediate level of knowledge and expertise in this field, I envision myself as an excellent web developer. I am actively participating and studying to further improve my skills and advance my career in this field. I am passionate and  constanly strive to learn more. 
 
 - 🔭 I’m currently working on **Project Sky**
 
