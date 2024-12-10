@@ -8,7 +8,7 @@
 ---
 
 ### Hi, I'm Bitress!
-I am a 21 years old Information Technology student in the field of web development. I consider myself to be at an intermediate level of knowledge and expertise in this field, I envision myself as an excellent web developer.
+I am a 22 years old Information Technology student in the field of web development. I consider myself to be at an intermediate level of knowledge and expertise in this field, I envision myself as an excellent web developer.
 
 
 # 💻 Tech Stack:
